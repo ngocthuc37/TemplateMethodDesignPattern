@@ -1,0 +1,16 @@
+D:\KienTrucPM\TemplateMethodDesignPattern\obj\Debug\net5.0\TemplateMethodDesignPattern.csproj.AssemblyReference.cache
+D:\KienTrucPM\TemplateMethodDesignPattern\obj\Debug\net5.0\TemplateMethodDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\KienTrucPM\TemplateMethodDesignPattern\obj\Debug\net5.0\TemplateMethodDesignPattern.AssemblyInfoInputs.cache
+D:\KienTrucPM\TemplateMethodDesignPattern\obj\Debug\net5.0\TemplateMethodDesignPattern.AssemblyInfo.cs
+D:\KienTrucPM\TemplateMethodDesignPattern\obj\Debug\net5.0\TemplateMethodDesignPattern.csproj.CoreCompileInputs.cache
+D:\KienTrucPM\TemplateMethodDesignPattern\bin\Debug\net5.0\TemplateMethodDesignPattern.exe
+D:\KienTrucPM\TemplateMethodDesignPattern\bin\Debug\net5.0\TemplateMethodDesignPattern.deps.json
+D:\KienTrucPM\TemplateMethodDesignPattern\bin\Debug\net5.0\TemplateMethodDesignPattern.runtimeconfig.json
+D:\KienTrucPM\TemplateMethodDesignPattern\bin\Debug\net5.0\TemplateMethodDesignPattern.runtimeconfig.dev.json
+D:\KienTrucPM\TemplateMethodDesignPattern\bin\Debug\net5.0\TemplateMethodDesignPattern.dll
+D:\KienTrucPM\TemplateMethodDesignPattern\bin\Debug\net5.0\ref\TemplateMethodDesignPattern.dll
+D:\KienTrucPM\TemplateMethodDesignPattern\bin\Debug\net5.0\TemplateMethodDesignPattern.pdb
+D:\KienTrucPM\TemplateMethodDesignPattern\obj\Debug\net5.0\TemplateMethodDesignPattern.dll
+D:\KienTrucPM\TemplateMethodDesignPattern\obj\Debug\net5.0\ref\TemplateMethodDesignPattern.dll
+D:\KienTrucPM\TemplateMethodDesignPattern\obj\Debug\net5.0\TemplateMethodDesignPattern.pdb
+D:\KienTrucPM\TemplateMethodDesignPattern\obj\Debug\net5.0\TemplateMethodDesignPattern.genruntimeconfig.cache
